@@ -1,5 +1,15 @@
 # MCDF_Design_Verification
 
+## 运行仿真
+    iverilog gtkwave
+    cd sim
+
+### 编译(可以改变tb模块名仿真其他模块)
+    make compile TEST_NAME=tb_formatter
+
+### 运行(出波形图)
+    make all TEST_NAME=tb_formatter
+
 ## 多通道数据整形器(top_formatter)
 
 多通道数据整形器MCDF（Multi-Channel Data Formatter），将多个通道的上行(uplink)数据经过内部的FIFO以数据包(data packet)的形式送出。
