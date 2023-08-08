@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Nov 24 12:47:42 2022
+[*]
+[dumpfile] "C:\Users\Anne\Desktop\Processing\MCDF\MCDF\sim\tb_min.vcd"
+[dumpfile_mtime] "Thu Nov 24 12:44:47 2022"
+[dumpfile_size] 325
+[savefile] "C:\Users\Anne\Desktop\Processing\MCDF\MCDF\sim\tb_min.gtkw"
+[timestart] 0
+[size] 1565 741
+[pos] 3034 -526
+*-1.953541 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_min.
+[treeopen] tb_min.u_min.
+[sst_width] 344
+[signals_width] 286
+[sst_expanded] 1
+[sst_vpaned_height] 178
+@24
+tb_min.slv0_prio_i[1:0]
+tb_min.slv1_prio_i[1:0]
+tb_min.slv2_prio_i[1:0]
+tb_min.u_min.min.min_value[1:0]
+@25
+tb_min.min_index[1:0]
+@22
+tb_min.u_min.min.i[31:0]
+tb_min.u_min.min.x[6:0]
+@28
+tb_min.u_min.min_index[1:0]
+tb_min.u_min.slv0_prio_i[1:0]
+tb_min.u_min.slv1_prio_i[1:0]
+tb_min.u_min.slv2_prio_i[1:0]
+@22
+tb_min.u_min.min.i[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

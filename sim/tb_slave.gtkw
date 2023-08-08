@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Dec 13 04:45:14 2022
+[*]
+[dumpfile] "D:\2_study\1_PKU\1_Class\2_IC_Design\hw\MCDF\MCDF\sim\tb_slave.vcd"
+[dumpfile_mtime] "Tue Dec 13 03:32:04 2022"
+[dumpfile_size] 3581
+[savefile] "D:\2_study\1_PKU\1_Class\2_IC_Design\hw\MCDF\MCDF\sim\tb_slave.gtkw"
+[timestart] 172
+[size] 2852 1631
+[pos] -1920 0
+*-5.412972 106 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 344
+[signals_width] 350
+[sst_expanded] 1
+[sst_vpaned_height] 490
+@28
+tb_slave.clk_i[0]
+tb_slave.rstn_i[0]
+tb_slave.slvx_en_i[0]
+tb_slave.a2sx_ack_i[0]
+tb_slave.chx_ready_o[0]
+tb_slave.chx_valid_i[0]
+@22
+tb_slave.chx_data_i[31:0]
+@24
+tb_slave.margin_o[7:0]
+@28
+tb_slave.slvx_req_o[0]
+@22
+tb_slave.slvx_data_o[31:0]
+@28
+tb_slave.slvx_val_o[0]
+[pattern_trace] 1
+[pattern_trace] 0
