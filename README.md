@@ -1,7 +1,7 @@
 # MCDF_Design_Verification
 
 ## 运行仿真
-    iverilog gtkwave
+    sudo apt-get install iverilog gtkwave
     cd sim
 
 ### 编译(可以改变tb模块名仿真其他模块)
